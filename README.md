@@ -3,7 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 
-This Reactjs project have added basic hooks examples to learn hooks features.
+This Reactjs project have added basic hook examples to learn hooks features.
 
 
 ## Available Scripts
